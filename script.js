@@ -4,7 +4,9 @@ const links = [
   { nome: "YouTube", link: "https://www.youtube.com" },
   { nome: "OpenAI", link: "https://www.openai.com" },
   { nome: "Wikipedia", link: "https://www.wikipedia.org" },
-  { nome: "GitHub", link: "https://github.com" }
+  { nome: "GitHub", link: "https://github.com" },
+  {nome:"Portal dos carros",link:"https://carrosportald.blogspot.com/"},
+  {nome:"Médico de cabelos",link:"https://www.larissasaib.com.br/"}
 ];
 
 const input = document.getElementById("searchInput");
