@@ -1,5 +1,6 @@
 // Array de objetos com nome e link
 const links = [
+  {nome:"Airbnb",link:"https://www.airbnb.com.br/r/saibvictore?s=6&t=061n0g"},
   {nome:"Hostinger hospedagem",link:"https://www.hostinger.com/br/referral?REFERRALCODE=1VICTOR444vps123"},
   { nome: "Google", link: "https://www.google.com" },
   { nome: "YouTube", link: "https://www.youtube.com" },
