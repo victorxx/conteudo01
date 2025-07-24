@@ -1,6 +1,6 @@
 // Array de objetos com nome e link
 const links = [
-  {nome:"Hostinger hospedagem",link:"https://www.hostinger.com/br/referral?REFERRALCODE=1VICTOR444vps123",
+  {nome:"Hostinger hospedagem",link:"https://www.hostinger.com/br/referral?REFERRALCODE=1VICTOR444vps123"},
   { nome: "Google", link: "https://www.google.com" },
   { nome: "YouTube", link: "https://www.youtube.com" },
   { nome: "OpenAI", link: "https://www.openai.com" },
